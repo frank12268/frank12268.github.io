@@ -16,3 +16,14 @@ jekyll new blog
 
 cd blog
 jekyll serve
+
+====
+https://stringpiggy.hpd.io/mac-osx-python3-dual-install/
+
+pip install --target
+pip3 install --target
+
+~/.profile
+PATH
+PYTHON2PATH
+PYTHON3PATH
